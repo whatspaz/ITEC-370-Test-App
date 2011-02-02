@@ -21,6 +21,8 @@ public class main {
 		//leave your name in a comment here
 		//don't delete anything in here, but add
 		//to it as you need to. --david
+		
+		System.exit(0);
 
 	}
 
