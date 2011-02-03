@@ -1,3 +1,4 @@
+package edu.radford.codebreakers.testing;
 /**
  * 
  */
@@ -6,7 +7,7 @@
  * @author david
  *
  */
-public class main {
+public class Main {
 
 	/**
 	 * @param args
